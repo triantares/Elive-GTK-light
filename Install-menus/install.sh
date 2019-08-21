@@ -11,4 +11,6 @@ while true ; do
     -h|--help)
        printf "Usage: $(basename $0) [options]\n\n$OPTIONS\n\n" ; exit 1 ;;
      -p|--persistant) cp -r menus-general/ ~/.e16/;echo "cp -t ~/.e16/menus-general/* ~/.e16/menus">> ~/.e16/startup-applications.list
-     
+   esac
+done
+cp -r menus-general/* ~/.e16/menus
