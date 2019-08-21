@@ -3,7 +3,7 @@
 "  Audio" "/usr/share/icons/gnome/48x48/categories/applications-sound.png" menu "menus_apps/Audio.menu"
 "  Development" "/usr/share/icons/gnome/48x48/categories/applications-development.png" menu "menus_apps/Development.menu"
 "  Education" "/usr/share/icons/Adwaita/48x48/categories/applications-science.png" menu "menus_apps/Education.menu"
-"  Elive" "/usr/share/icons/logo.png" menu "menus_apps/Elive.menu"
+"  Elive" "/usr/share/icons/gnome/48x48/emblems/emblem-elive.png" menu "menus_apps/Elive.menu"
 "  Encryption" "/usr/share/icons/Faenza/mimetypes/48/encrypted.png" menu "menus_apps/Encryption.menu"
 "  Games" "/usr/share/icons/gnome/48x48/categories/applications-games.png" menu "menus_apps/Game.menu"
 "  Graphics" "/usr/share/icons/gnome/48x48/categories/applications-graphics.png" menu "menus_apps/Graphics.menu"
