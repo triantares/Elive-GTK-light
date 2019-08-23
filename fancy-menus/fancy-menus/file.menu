@@ -1,5 +1,5 @@
 "Elive Menu" 
-"Terminal" NULL "exec /etc/alternatives/x-terminal-emulator"
+"Terminal" NULL "exec /usr/bin/terminology"
 "  Audio" "/usr/share/icons/gnome/48x48/categories/applications-sound.png" menu "menus_apps/Audio.menu"
 "  Development" "/usr/share/icons/gnome/48x48/categories/applications-development.png" menu "menus_apps/Development.menu"
 "  Education" "/usr/share/icons/Adwaita/48x48/categories/applications-science.png" menu "menus_apps/Education.menu"
