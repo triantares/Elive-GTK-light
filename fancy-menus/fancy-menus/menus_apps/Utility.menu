@@ -35,6 +35,6 @@
 "  Thunar File Manager" "/usr/share/icons/gnome/48x48/apps/folder.png" exec "Thunar"
 "  Unison" "/usr/share/pixmaps/unison-gtk.xpm" exec "unison-gtk"
 "  Vim" "/usr/share/icons/gnome/48x48/apps/gvim.png" exec "/etc/alternatives/x-terminal-emulator -e vim"
-"  VirtualBox" "/usr/share/pixmaps/virtualbox.png" exec "VirtualBox"
+"  VirtualBox" "/usr/share/icons/gnome/48x48/apps/virtualbox.png" exec "VirtualBox"
 "  Xfce Terminal" "/usr/share/icons/gnome/48x48/apps/utilities-terminal.png" exec "xfce4-terminal"
 "  Xpad" "/usr/share/icons/gnome/48x48/apps/xpad.png" exec "xpad"
